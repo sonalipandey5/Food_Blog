@@ -1,0 +1,84 @@
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.grid {
+    margin: 0 auto;
+    max-width: 1200px;
+    width: 100%;
+}
+
+.row {
+    width: 100%;
+    margin-bottom: 20px;
+    display: flex;
+}
+.col-1{
+    width: 33.33%
+}
+
+.col-2{
+    width: 33.33%
+}
+.col-3{
+    width: 33.33%
+}
+
+#one{
+        transition: transform 0.5s;
+    }
+#one:hover{
+        transform: scale(1.2);
+    }
+#two{
+        transition: transform 0.5s;
+    }
+#two:hover{
+        transform: scale(1.2);
+    }
+#three{
+        transition: transform 0.5s;
+    }
+#three:hover{
+        transform: scale(1.2);
+    }
+#four{
+        transition: transform 0.5s;
+    }
+#four:hover{
+        transform: scale(1.2);
+    }
+#five{
+        transition: transform 0.5s;
+    }
+#five:hover{
+        transform: scale(1.2);
+    }
+#six{
+        transition: transform 0.5s;
+    }
+#six:hover{
+        transform: scale(1.2);
+    }
+#seven{
+        transition: transform 0.5s;
+    }
+#seven:hover{
+        transform: scale(1.2);
+    }
+#eight{
+        transition: transform 0.5s;
+    }
+#eight:hover{
+        transform: scale(1.2);
+    }
+#nine{
+        transition: transform 0.5s;
+    }
+#ni:hover{
+        transform: scale(1.2);
+    }
+
